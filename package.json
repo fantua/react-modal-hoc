@@ -1,6 +1,6 @@
 {
   "name": "react-modal-hoc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple React HOC for wrapping component with modal API",
   "main": "lib/index.js",
   "files": [
@@ -18,10 +18,8 @@
   },
   "keywords": [
     "react",
-    "outside",
-    "compoinent",
-    "click",
-    "event"
+    "react-hoc",
+    "modal"
   ],
   "homepage": "https://github.com/fantua/react-modal-hoc",
   "author": "Igor Machuzhak <ihor3000@gmail.com>",
