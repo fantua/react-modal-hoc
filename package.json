@@ -1,6 +1,6 @@
 {
   "name": "react-modal-hoc",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Simple React HOC for wrapping component with modal API",
   "main": "lib/index.js",
   "files": [
